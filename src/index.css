@@ -9,3 +9,23 @@ code{
 .nav-link{
   margin-left: 20px;
 }
+.quick-links{
+  display: inline;
+  margin:0;
+
+}
+#SupportContainer{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+#SupportHero a{
+   color: white;
+   line-height:2px;
+   margin-left: 10px;
+}
+#SupportWrapper{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin: 0 150px;
+}
